@@ -1,2 +1,2 @@
 HUMAN1
-HUMAN2
+HUMAN2브랜치에서 다른 작업 2를 함
